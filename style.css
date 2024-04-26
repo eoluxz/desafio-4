@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    background-color: #3CB371;
+    padding: 20px;
+
+}
+
+.botao {
+    
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+}
+
+.tabela {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.bagui {
+    margin: 10px;
+}
+
+.imagem {
+    width: 40px;
+    height: 40px;
+}
+
+.botao:hover {
+    color: black;
+}
